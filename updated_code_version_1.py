@@ -1,3 +1,6 @@
+# Outdated and not in use, here to just show improvement on final app
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 
